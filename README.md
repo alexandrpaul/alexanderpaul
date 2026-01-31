@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-# Active Directory Administration & IT service Operations Simulation
+# Active Directory Administration & IT Service Operations Simulation
 
 This project shows my practical experience working with **Active Directory**, including creating and managing user accounts, groups, and security policies. It reflects real Help Desk responsibilities such as account provisioning, permission management, and configuring Group Policy in an enterprise IT environment.
 
