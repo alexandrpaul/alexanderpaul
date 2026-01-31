@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
 # Active Directory Help Desk Project
 
 This project shows my practical experience working with **Active Directory**, including creating and managing user accounts, groups, and security policies. It reflects real Help Desk responsibilities such as account provisioning, permission management, and configuring Group Policy in an enterprise IT environment.
@@ -98,3 +102,9 @@ Configured a logon banner through GPO to display corporate policy and compliance
 ![Screenshot](https://github.com/alexandrpaul/ad-helpdesk/blob/9ea851dadf4227b532149446dca035605384d545/Screenshots/img10.2.png)
 
 ![Screenshot](https://github.com/alexandrpaul/ad-helpdesk/blob/9ea851dadf4227b532149446dca035605384d545/Screenshots/img10.3.png)
+
+
+
+<h2> Final Thoughts </h2>
+
+<p> Completing these tasks provided hands-on experience managing key aspects of Active Directory, from account provisioning and password management to OU organization and security group assignments. Implementing Group Policy Objects and configuring login policies reinforced practical knowledge of enforcing organizational standards and maintaining secure, compliant IT environments. This work sharpened both technical precision and operational awareness, essential skills for effective IT support and enterprise systems management. </p>
